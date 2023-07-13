@@ -1,0 +1,59 @@
+20230705 23:28:48 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java77 - chromeis opened
+20230705 23:28:49 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java87 - url enetered in the url field
+20230705 23:28:49 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java115 - url entered in the Address box
+20230705 23:28:49 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230705 23:28:49 INFO  [main] base.BasePages BasePages.java78 - password entered in theusername fieldfield
+20230705 23:28:50 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java157 - Actual error is matching with the expected error
+20230705 23:28:51 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java77 - chromeis opened
+20230705 23:28:51 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java87 - url enetered in the url field
+20230705 23:28:51 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java115 - url entered in the Address box
+20230705 23:28:51 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230705 23:28:51 INFO  [main] base.BasePages BasePages.java78 - password entered in theusername fieldfield
+20230705 23:28:52 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230705 23:28:52 INFO  [main] base.BasePages BasePages.java78 - password entered in thepassword fieldfield
+20230705 23:28:57 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java179 - Actual title matching with the expected title
+20230705 23:28:58 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java77 - chromeis opened
+20230705 23:28:59 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java87 - url enetered in the url field
+20230705 23:28:59 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java115 - url entered in the Address box
+20230705 23:28:59 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230705 23:28:59 INFO  [main] base.BasePages BasePages.java78 - password entered in theusername fieldfield
+20230705 23:28:59 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230705 23:28:59 INFO  [main] base.BasePages BasePages.java78 - password entered in thepassword fieldfield
+20230705 23:29:06 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java77 - chromeis opened
+20230705 23:29:07 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java87 - url enetered in the url field
+20230705 23:29:07 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java115 - url entered in the Address box
+20230705 23:29:08 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java77 - chromeis opened
+20230705 23:29:09 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java87 - url enetered in the url field
+20230705 23:29:09 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java115 - url entered in the Address box
+20230706 00:03:22 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java79 - chromeis opened
+20230706 00:03:23 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java89 - url enetered in the url field
+20230706 00:03:23 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java117 - url entered in the Address box
+20230706 00:03:23 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230706 00:03:23 INFO  [main] base.BasePages BasePages.java78 - password entered in theusername fieldfield
+20230706 00:03:23 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java159 - Actual error is matching with the expected error
+20230706 00:03:24 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java79 - chromeis opened
+20230706 00:03:25 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java89 - url enetered in the url field
+20230706 00:03:25 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java117 - url entered in the Address box
+20230706 00:03:26 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230706 00:03:26 INFO  [main] base.BasePages BasePages.java78 - password entered in theusername fieldfield
+20230706 00:03:26 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230706 00:03:26 INFO  [main] base.BasePages BasePages.java78 - password entered in thepassword fieldfield
+20230706 00:03:33 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java181 - Actual title matching with the expected title
+20230706 00:03:34 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java79 - chromeis opened
+20230706 00:03:34 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java89 - url enetered in the url field
+20230706 00:03:34 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java117 - url entered in the Address box
+20230706 00:03:34 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230706 00:03:34 INFO  [main] base.BasePages BasePages.java78 - password entered in theusername fieldfield
+20230706 00:03:34 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230706 00:03:35 INFO  [main] base.BasePages BasePages.java78 - password entered in thepassword fieldfield
+20230706 00:03:41 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java79 - chromeis opened
+20230706 00:03:42 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java89 - url enetered in the url field
+20230706 00:03:42 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java117 - url entered in the Address box
+20230706 00:03:43 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java79 - chromeis opened
+20230706 00:03:44 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java89 - url enetered in the url field
+20230706 00:03:44 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java117 - url entered in the Address box
+20230706 00:03:44 INFO  [main] steps.SalesForceLoginStepDef SalesForceLoginStepDef.java230 - Checking Error meassage when wrong username and password entered
+20230706 00:03:44 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230706 00:03:44 INFO  [main] base.BasePages BasePages.java78 - password entered in theusername fieldfield
+20230706 00:03:44 INFO  [main] base.BasePages BasePages.java75 - element displayed
+20230706 00:03:44 INFO  [main] base.BasePages BasePages.java78 - password entered in thepassword fieldfield
